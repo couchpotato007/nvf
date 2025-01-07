@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: ptzwx-hx6nd
+created: 2025-01-07T22:17:03+01:00

@@ -90,7 +90,6 @@
     visuals = {
       nvim-web-devicons.enable = true;
       fidget-nvim.enable = true;
-      highlight-undo.enable = true;
       nvim-cursorline.enable = true;
       cinnamon-nvim.enable = true;
     };
