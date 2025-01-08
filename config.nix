@@ -30,6 +30,8 @@
       };
     };
 
+    luaConfigPost = "${builtins.readFile ./extraConfig.lua}";
+
     viAlias = true;
     vimAlias = true;
     useSystemClipboard = true;
